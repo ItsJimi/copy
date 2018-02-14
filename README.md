@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/ItsJimi/copy/master/icons/copy128.png"/>
+
 # copy
 📄 Chrome extension to generate qrcode from selected text
 
